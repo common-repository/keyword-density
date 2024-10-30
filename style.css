@@ -1,0 +1,32 @@
+/* Keyword-density css */
+
+.kd-output-title{
+    padding-right: 15px;
+}
+.kd-output-value{
+    font-weight: bold;
+    background-color: yellow;
+    padding: 2px;
+}
+#kd-details h3{
+    background: none;
+}
+.kd-keywords-list{
+   margin-left: 20px;
+}
+div.kd-notice{
+    margin-top: 40px;
+    background-color: yellow;
+    border: 1px solid black;
+    color: black;
+    width: 97%;
+}
+div.kd-notice p{
+    margin-left: 10px;
+}
+div.kd-notice p a{
+    text-decoration: none;
+}
+div.kd-notice span{
+    right: 1px;
+}
